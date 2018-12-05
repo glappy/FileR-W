@@ -1,0 +1,100 @@
+1:Aadan:불 같은
+2:Aaliah:하강, 상승
+3:Aalleeyaa:하강, 상승
+4:Aaric:ARIC의 변형, 용서 규칙
+5:Ab-Owen:오웬의 아들
+6:Abadine:희망, 기쁨
+7:Abagael:하느님은 기쁨
+8:Abagale:하느님은 기쁨
+9:Abbagail:하느님은 기쁨
+10:Abbegail:하느님은 기쁨
+11:Abbeygail:아버지의 기쁨
+12:Abbi:하느님은 기쁨
+13:Abbigail:하느님은 기쁨
+14:Abbigayle:하느님은 기쁨
+15:Abbot:성직자
+16:Abbott:대 수도원
+17:Aberfa:강의 입에서
+18:Abergavenny:헨리 여덟 번째 주 애버 게이브 니
+19:Abgail:하느님은 기쁨
+20:Abhorson:교수형 집행의 측정을 위해 측정
+21:Abigale:하느님은 기쁨
+22:Abrielle:가브리엘의 변형이 될 수 있습니다
+23:Acca:ACCA로
+24:Acennan:제공
+25:Acey:최고의
+26:Acker:오크의
+27:Ackerley:에이커의 초원에 상주
+28:Ackerman:오크의 남자
+29:Ackley:오크의 고정 초원
+30:Acton:오크 나무 정산
+31:Acwel:사망
+32:Acwellen:사망
+33:Adain:날개.
+34:Adalbeorht:고귀한
+35:Adalbrechta:고귀한
+36:Adalson:세이지
+37:Adam:사람
+38:Adamm:
+39:Adamson:아담의 아들 : 붉은 땅의 사람
+40:Addeline:탑
+41:Addis:사람
+42:Addison:아담의 자녀
+43:Adelaido:친한
+44:Adelyn:Magdala의 여인
+45:Adia:선물
+46:Adken:오크 나무
+47:Adkins:칼, 아드리아에서 발생 (베니스) 또는 블랙 / 다크 둔
+48:Adler:독수리
+49:Adney:귀족의 섬에 살고
+50:Adny:귀족의 섬에 살고
+51:Adonna:여자
+52:Adram:
+53:Adrean:Hadria, 이탈리아
+54:Adrena:즐거움
+55:Adrenalijna:방법 기쁨
+56:Adriann:Hadria, 이탈리아
+57:Adrieanna:Hadria, 이탈리아
+58:Adrin:Hadria, 이탈리아
+59:Adrion:아드리아 해에서
+60:Adriona:Hadria, 이탈리아
+61:Adron:아드리아 해에서
+62:Adyn:불 같은
+63:Adyna:천박한
+64:Adyson:
+65:Aeccestane:돌의 검객
+66:Aedd:아일랜드의 왕
+67:Aedre:흐름
+68:Aefentid:저녁
+69:Aefre:영원히
+70:Aeker:오크의
+71:Aekerman:오크의 남자.
+72:Aelfraed:열한 상담
+73:Aelfthryth:힘
+74:Aelfwine:마법의 친구
+75:Aelita:
+76:Aelle:여러 왕의 이름
+77:Aelwen:공정 이마
+78:Aenedleah:멋진 초원
+79:Aenescumb:장엄한 하나의 계곡에 살고
+80:Aeoelric:
+81:Aeric:사람들의 통치자
+82:Aerica:사람들의 통치자
+83:Aerlene:꼬마 요정의
+84:Aerona:셀틱 여신
+85:Aesclin:재 풀에서의 삶
+86:Aesoburne:재 스트림에 가까운 생활
+87:Aethelberht:귀족이나 밝은
+88:Aethelbert:귀족이나 밝은
+89:Aethelind:옛날 독일 고귀한 이름 의미 뱀의 고대 영어 이름
+90:Aethelred:왕의 이름
+91:Aethelweard:귀족 보호
+92:Aethelwine:엘프의 친구
+93:Aethelwulf:왕의 이름
+94:Aetheston:귀족의 언덕에서
+95:Agness:순수, 어린 양
+96:Ahebban:전쟁을하게
+97:Ahreddan:저장
+98:Aiken:칼, 아드리아에서 발생 (베니스) 또는 블랙 / 다크 둔
+99:Aikin:오크 나무
+100:Ailèn:멋진
